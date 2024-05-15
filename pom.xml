@@ -59,7 +59,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.houari.Calculator</mainClass>
+                            <mainClass>com.houarizegai.calculator.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
